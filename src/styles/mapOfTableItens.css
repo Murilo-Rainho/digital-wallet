@@ -1,0 +1,20 @@
+.empty-wallet {
+  /* display: flex; */
+  /* justify-content: center; */
+  /* width: 100vw; */
+}
+
+.button-edit_erase {
+  background-color: rgb(5, 5, 153);
+  cursor: pointer;
+  height: 40px;
+  transition: 0.2s;
+  width: 60px;
+}
+
+.button-edit_erase:hover {
+  background-color: aliceblue;
+  cursor: pointer;
+  height: 40px;
+  width: 60px;
+}

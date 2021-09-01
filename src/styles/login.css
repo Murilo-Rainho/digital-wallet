@@ -1,0 +1,88 @@
+.login-container {
+  align-items: center;
+  background:
+    url('https://cdn.adtechpanda.com/1c107f61-e29a-4abe-9f00-6b3f02759765/-/format/jpeg/-/quality/lightest/')
+    no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  font-family: monospace;
+  font-size: 1.5em;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.login-center-container {
+  background-color: #414a72;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.808);
+  max-width: 60%;
+  min-width: 40%;
+  opacity: 0.9;
+}
+
+.header-login-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.form-login-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  min-height: 25vh;
+}
+
+.button-login {
+  background-color: #333;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px;
+  color: white;
+  cursor: pointer;
+  font-size: 0.8em;
+  padding: 10px 20px;
+  transition: 0.4s;
+}
+
+.button-login:hover {
+  background-color: white;
+  color: inherit;
+}
+
+button:disabled {
+  background-color: rgb(238, 109, 109);
+  cursor: default !important;
+}
+
+button:disabled:hover {
+  background-color: rgb(180, 70, 70);
+  color: inherit;
+}
+
+.label-login {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.input-login:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 15px rgb(24, 24, 24) inset;
+  -webkit-text-fill-color: aliceblue !important;
+}
+
+.input-login::placeholder {
+  color: rgb(102, 102, 102);
+}
+
+.input-login {
+  background-color: rgb(24, 24, 24);
+  border-radius: 15px;
+  color: aliceblue;
+  font-family: inherit;
+  font-size: 0.9em;
+  outline: none;
+  padding: 5px 10px;
+}

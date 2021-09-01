@@ -1,0 +1,47 @@
+body {
+  background: no-repeat;
+  background-image: url('../img/continents.png');
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.wallet-container {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
+
+.user-exchange-container {
+  background-color: rgb(26, 26, 26);
+  color: aliceblue;
+  display: flex;
+  justify-content: space-between;
+}
+
+.user-container {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 30%;
+  height: 8vh;
+}
+
+.exchange-container {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  width: 60%;
+}
+
+.exchange-titles {
+  margin: 0;
+}
+
+.table-expenses {
+  background-color: rgb(149, 149, 149);
+  min-height: 10vh;
+  opacity: 0.9;
+  text-align: center;
+}
