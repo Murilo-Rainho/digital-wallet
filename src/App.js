@@ -6,7 +6,7 @@ import Wallet from './pages/Wallet';
 function App() {
   return (
     <Switch>
-      <Route exact path="/digital-wallet/" component={ Login } />
+      <Route exact path={["/", "/digital-wallet"]} component={ Login } />
       <Route exact path="/digital-wallet/carteira" component={ Wallet } />
     </Switch>
   );
