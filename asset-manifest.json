@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/digital-wallet/static/css/main.f650816c.chunk.css",
+    "main.js": "/digital-wallet/static/js/main.ceeffd64.chunk.js",
+    "main.js.map": "/digital-wallet/static/js/main.ceeffd64.chunk.js.map",
+    "runtime-main.js": "/digital-wallet/static/js/runtime-main.d595fa3e.js",
+    "runtime-main.js.map": "/digital-wallet/static/js/runtime-main.d595fa3e.js.map",
+    "static/js/2.4e002a09.chunk.js": "/digital-wallet/static/js/2.4e002a09.chunk.js",
+    "static/js/2.4e002a09.chunk.js.map": "/digital-wallet/static/js/2.4e002a09.chunk.js.map",
+    "index.html": "/digital-wallet/index.html",
+    "static/css/main.f650816c.chunk.css.map": "/digital-wallet/static/css/main.f650816c.chunk.css.map",
+    "static/js/2.4e002a09.chunk.js.LICENSE.txt": "/digital-wallet/static/js/2.4e002a09.chunk.js.LICENSE.txt",
+    "static/media/coin.fef3aa19.gif": "/digital-wallet/static/media/coin.fef3aa19.gif",
+    "static/media/wallet.css": "/digital-wallet/static/media/continents.996888ea.png",
+    "static/media/loading.45df2d82.gif": "/digital-wallet/static/media/loading.45df2d82.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d595fa3e.js",
+    "static/js/2.4e002a09.chunk.js",
+    "static/css/main.f650816c.chunk.css",
+    "static/js/main.ceeffd64.chunk.js"
+  ]
+}
